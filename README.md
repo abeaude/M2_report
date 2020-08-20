@@ -131,7 +131,7 @@ In order to run trajectories inference you a seurat object with different dimens
 3. Plotting and projection
 4. Trajectory evaluation
 
-To see a complete example on how to run trajectories on you can see : [Trajectory inference](Example_Scripts/traj_grafted_analysis.R)
+To see a complete example on how to run trajectories on you can see : [Trajectory inference](Example_Scripts/trajectory.R)
 
 ### Usage : `data_preparation_trajectories`
 > **[parameters]**
